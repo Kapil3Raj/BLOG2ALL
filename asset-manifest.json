@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/blog2all/static/js/main.9f876b15.js",
+    "main.js": "/blog2all/static/js/main.7a26bb10.js",
     "static/media/pic_web3.png": "/blog2all/static/media/pic_web3.9f530e084470f1e0ca3b.png",
     "index.html": "/blog2all/index.html",
-    "main.9f876b15.js.map": "/blog2all/static/js/main.9f876b15.js.map"
+    "main.7a26bb10.js.map": "/blog2all/static/js/main.7a26bb10.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f876b15.js"
+    "static/js/main.7a26bb10.js"
   ]
 }
